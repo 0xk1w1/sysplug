@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension version="3.4" type="plugin" group="system" method="upgrade">
+    <name>System - Sysplug</name>
+    <author>Horst Worst</author>
+    <creationDate>March 2016</creationDate>
+    <copyright>(C) 2016 Horst Worst</copyright>
+    <license>GNU GPL http://gnu.org</license>
+    <authorEmail>worsthorst@gullaschkanone</authorEmail>
+    <authorUrl>gullaschkanone.com</authorUrl>
+    <version>0.1.0</version>
+    <description>Text to Logo replacement</description>
+    <files>
+        <filename plugin="sysplug">sysplug.php</filename>
+        <filename>index.html</filename>
+    </files>
+    <media folder="media">
+        <filename plugin="sysplug">b5c-logo-signatur-1.png</filename>
+    </media>
+    <config>
+    </config>
+</extension>
