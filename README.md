@@ -2,7 +2,7 @@
 String Replace Plugin for Joomla CMS
 
 Replaces given string with set image. Just edit sysplug.php and sysplug.xml to your needs. 
-<br>
+
 I.e. on line 20 in sysplug.php replace 'Big 5 Concepts' with the string you want to replace followed by the path to the image and desired resolution. 
 
 In sysplug.xml on line 17 change 'b5c-logo-signatur-1.png' to the actual filename. 
