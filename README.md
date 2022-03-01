@@ -9,6 +9,6 @@ In sysplug.xml on line 17 change 'b5c-logo-signatur-1.png' to the actual filenam
 
 Download the zip and rename it to 'sysplug.zip'. Install as usual. 
 
-This Plugin has been part of some fiddling with the Joomla CMS and first attempts in PHP development. Feel free to edit, contribute, change to your needs. I would be happy to see someone making something out of it. Anyways, at the end its a simple useless Plugin i developed mainly for learning purpose... 
+This Plugin has been part of some fiddling with the Joomla CMS and first attempts in PHP development. 
 
 This is a **System Plugin**, i.e. it replaces given string everywhere on **all** pages!
